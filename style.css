@@ -2,3 +2,11 @@ h1 {
   color: red;
   background-color: blue;
 }
+
+<body style = "background-color: DarkSeaGreen; font-family: Brush Script MT, cursive;">
+<h1 style= "color: LightPink; font-size: 80px;"> Hello World </h1>
+  
+
+  <p style= "color: PowderBlue; font-family: Courier New, mmonospace; font-size: 50px;"> This is my website </p>
+
+</body>
