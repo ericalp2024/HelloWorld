@@ -9,7 +9,8 @@ h1 {
 
   
 p1 {
-  "color: PowderBlue;
+  color: PowderBlue;
+  text-align: center
   font-family: Courier New, mmonospace; font-size: 50px;" 
 
 </body>
@@ -19,9 +20,4 @@ p1 {
 
 
 
-  h1 {
-  color: #fe218b;
-  text-align: center;
-  font-family: "Garamond", serif;
-  font-size: 60px;
-  background: linear-gradient(90, #fed700, #21b0fe);
+
