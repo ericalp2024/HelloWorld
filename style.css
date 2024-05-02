@@ -4,7 +4,8 @@ h1 {
   color: LightBlue;
   text-align: center;
   font-family: "Brush Script MT", cursive;
-  background-color: DarkSeaGreen
+  background: DarkSeaGreen
+  font-size: 80px;
 }
 </head>
 
