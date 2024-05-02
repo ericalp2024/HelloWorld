@@ -1,5 +1,7 @@
 h1 {
   color: red;
+  text-align: center;
+  
   background-color: blue;
 }
 
@@ -11,3 +13,15 @@ p1 {
   font-family: Courier New, mmonospace; font-size: 50px;" "This is my website" 
 
 </body>
+
+
+
+
+
+
+  h1 {
+  color: #fe218b;
+  text-align: center;
+  font-family: "Garamond", serif;
+  font-size: 60px;
+  background: linear-gradient(90, #fed700, #21b0fe);
