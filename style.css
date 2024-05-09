@@ -1,11 +1,18 @@
 
 
 h1 {
-  color: DarkSeaGreen;
+  color: Black;
   text-align: center;
   font-family: "Brush Script MT", cursive;
-  background-image: url("https://media.istockphoto.com/id/828090242/photo/vegetables.jpg?s=2048x2048&w=is&k=20&c=8R4D0YDh2ls9FsxB5fcytsnYxpadw8Xo7i-3Y6Nxoo0=");
+  background-color: DarkSeaGreen;
   font-size: 50px;
+
+p {
+  background-color: DarkSeaGreen;
+}
+
+
+
 }
 
 h2 {
