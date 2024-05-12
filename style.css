@@ -19,8 +19,7 @@ a {
   justify-content: space-between; /* this will add equal space between each image */
   position: fixed;
   padding: 10px 10px 0px 10px;
-  left: 0;
-  right: 0;
+  
 
 }
 
