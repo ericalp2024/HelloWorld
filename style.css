@@ -14,10 +14,8 @@ h1 {
   display: flex;
   justify-content: space-between; /* this will add equal space between each image */
   position: fixed;
-  padding-top: 50px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 50px
+  padding: 10px, 10px, 0px, 10px
+    
   }
 
 p {
