@@ -8,6 +8,22 @@ h1 {
   font-size: 50px;
 }
 
+a {
+  border-style: solid;
+  border-color: DarkSeaGreen;
+  border-width: 5px;
+}
+ 
+  .image-row {
+  display: flex;
+  justify-content: space-between; /* this will add equal space between each image */
+  position: fixed;
+  padding: 10px 10px 0px 10px;
+  left: 0;
+  right: 0;
+
+}
+
 p {
   font-size: 20px;
 }
