@@ -10,11 +10,7 @@ h1 {
 
 
  
-  .image-row {
-  display: flex;
-  justify-content: space-between; /* this will add equal space between each image */
-  position: fixed;
-  padding: 30px, 30px, 30px, 30px;
+ 
     
   }
 
