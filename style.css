@@ -10,12 +10,12 @@ h1 {
 
 button {
   color: AntiqueWhite;
-  background-color: PaleVioletRed;
+  background-color: DarkSeaGreen;
 text-align: center;
-  font-size: 22px;
+  font-size: 40px;
   border: none;
   border-radius: 7px;
-   margin: 7px 5px;
+   margin: 12px 5px;
 }
 
 
